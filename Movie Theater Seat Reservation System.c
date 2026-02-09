@@ -1,5 +1,3 @@
-//Sunil Thapa Magar  1002148333
-
 
 #include <stdio.h>
 #include <stdlib.h>
@@ -172,4 +170,5 @@ int main()
     WriteMovieTheater(MovieTheater, numRows, numCols);
 
     return 0;
+
 }
